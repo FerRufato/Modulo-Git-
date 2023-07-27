@@ -1,0 +1,23 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header li {
+    display: inline;
+}
+.container {
+    width: 1366 px;
+    margin: 0 auto;
+    
+}
+.article {
+    display: flex;
+}
+.article article {
+height: 100px;    
+}
+.article article {
+    width: 30%;
+}
